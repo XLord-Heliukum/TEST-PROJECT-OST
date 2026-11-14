@@ -1,6 +1,6 @@
-# TEST-PROJECT 原创配乐库
+# 35024号怪象-Anomaly35024 原创配乐库
 
-Minecraft 伪实况恐怖系列《TEST-PROJECT》的原创配乐库，由 **Xlord** 作曲。
+Minecraft 伪实况恐怖系列《35024号怪象-Anomaly35024》的原创配乐库，由 **Xlord** 作曲。
 
 这些曲目用于系列正片，整体原则是：大多数时间不出现音乐，音乐只在画面需要时进入；任何可数的强拍、可预测的段落转折、持续的旋律音流，都会被视为抢戏。
 
@@ -18,7 +18,7 @@ Minecraft 伪实况恐怖系列《TEST-PROJECT》的原创配乐库，由 **Xlor
 
 ## 使用说明
 
-这些曲目是《TEST-PROJECT》系列正片的配乐，他人取用时请按上节要求署名并保留许可证；音乐本身的授权不附带片中画面、剧情或其他素材的任何权利。
+这些曲目是《35024号怪象-Anomaly35024》系列正片的配乐，他人取用时请按上节要求署名并保留许可证；音乐本身的授权不附带片中画面、剧情或其他素材的任何权利。
 
 ## 授权 / License
 
@@ -34,9 +34,9 @@ Minecraft 伪实况恐怖系列《TEST-PROJECT》的原创配乐库，由 **Xlor
 
 ---
 
-# TEST-PROJECT OST
+# 35024号怪象-Anomaly35024 OST
 
-An original soundtrack library for the *Minecraft* "pseudo-Let's Play" (found-footage style) horror series *TEST-PROJECT*, composed by **Xlord**.
+An original soundtrack library for the *Minecraft* "pseudo-Let's Play" (found-footage style) horror series *35024号怪象-Anomaly35024*, composed by **Xlord**.
 
 These tracks were created for the series itself. The guiding principle is that music should remain absent for the most part, appearing only when the visuals demand it. Any discernible strong beats, predictable structural transitions, or continuous melodic flows are avoided, as they would otherwise distract from the content.
 
@@ -54,7 +54,7 @@ Music/
 
 ## Usage Instructions
 
-These tracks serve as the soundtrack for the *TEST-PROJECT* series. If you choose to use them, please provide attribution and retain the license as specified above. Please note that the licensing of this music does not grant any rights to the visuals, narrative, or other materials featured in the series.
+These tracks serve as the soundtrack for the *35024号怪象-Anomaly35024* series. If you choose to use them, please provide attribution and retain the license as specified above. Please note that the licensing of this music does not grant any rights to the visuals, narrative, or other materials featured in the series.
 
 ## License
 
