@@ -34,9 +34,9 @@ Minecraft 伪实况恐怖系列《35024号怪象-Anomaly35024》的原创配乐�
 
 ---
 
-# 35024号怪象-Anomaly35024 OST
+# Anomaly35024 OST
 
-An original soundtrack library for the *Minecraft* "pseudo-Let's Play" (found-footage style) horror series *35024号怪象-Anomaly35024*, composed by **Xlord**.
+An original soundtrack library for the *Minecraft* "pseudo-Let's Play" (found-footage style) horror series *Anomaly35024*, composed by **Xlord**.
 
 These tracks were created for the series itself. The guiding principle is that music should remain absent for the most part, appearing only when the visuals demand it. Any discernible strong beats, predictable structural transitions, or continuous melodic flows are avoided, as they would otherwise distract from the content.
 
